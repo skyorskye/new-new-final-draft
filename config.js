@@ -11,7 +11,7 @@ var config = {
         {
             id: '9 Projects',
             alignment: 'right',
-            title: 'Chapter 3',
+            title: '9 Projects',
             image: '9 tiles.jpg',
             description: '',
             location: {
