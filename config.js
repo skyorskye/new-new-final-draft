@@ -9,9 +9,9 @@ var config = {
     footer: '',
     chapters: [
         {
-            id: '9 Projects',
-            alignment: 'right',
-            title: '9 Projects',
+            id: '9 visons for post-prison New York State',
+            alignment: 'full',
+            title: '9 visons for post-prison New York State',
             image: '9 tiles.jpg',
             description: '',
             location: {
